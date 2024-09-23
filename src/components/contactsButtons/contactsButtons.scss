@@ -1,0 +1,53 @@
+.contactsButtons {
+  position: fixed;
+  bottom: 18px;
+  right: 18px;
+  z-index: 5;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+
+  @media (min-width: 1024px) {
+    bottom: 40px;
+    right: 40px;
+    gap: 20px;
+  }
+
+  &__button {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 30px;
+    height: 30px;
+    transition: transform 0.3s ease, z-index 0.3s ease;
+
+    @media (min-width: 1024px) {
+      width: 60px;
+      height: 60px;
+    }
+
+    &:hover {
+      transform: scale(1.2);
+    }
+
+    &--wp {
+      background-image: url(../../images/wp.svg);
+    }
+
+    &--viber {
+      background-image: url(../../images/viber.svg);
+    }
+
+    &--telegram {
+      background-image: url(../../images/telegram.svg);
+    }
+
+    &--gmail {
+      background-image: url(../../images/gmail.svg);
+    }
+
+    &--phone {
+      background-image: url(../../images/phone.svg);
+    }
+  }
+}
