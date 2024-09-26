@@ -1,36 +1,36 @@
 {
   "files": {
-    "main.css": "/transferok/static/css/main.cace6a0f.css",
-    "main.js": "/transferok/static/js/main.6782726e.js",
+    "main.css": "/transferok/static/css/main.0b8723d9.css",
+    "main.js": "/transferok/static/js/main.0389d23f.js",
     "static/media/home.jpg": "/transferok/static/media/home.fd760b399b9a1d7f9f0a.jpg",
     "static/media/toyota1.png": "/transferok/static/media/toyota1.654b923871e80ac0a65e.png",
-    "static/media/wv1.png": "/transferok/static/media/wv1.1e629eea27f5ca22bfb5.png",
-    "static/media/wv2.png": "/transferok/static/media/wv2.fdf179eb8617f26220aa.png",
+    "static/media/wv2.png": "/transferok/static/media/wv2.bdbf98762d3cdbcbe6cd.png",
+    "static/media/wv1.png": "/transferok/static/media/wv1.a2edfda4afd24a4731ca.png",
     "static/media/audi1.png": "/transferok/static/media/audi1.07547b7f71a2eac8a41e.png",
     "static/media/audi2.jpg": "/transferok/static/media/audi2.b292c708f7c61dbdfaa7.jpg",
     "static/media/toyota2.jpg": "/transferok/static/media/toyota2.19748ed8d1b609ce8a73.jpg",
     "static/media/station.jpg": "/transferok/static/media/station.9beeea807a4f2a4aba89.jpg",
-    "static/media/multiLanguage.svg": "/transferok/static/media/multiLanguage.bda9e76d1d2d013395cc.svg",
-    "static/media/reliability.svg": "/transferok/static/media/reliability.d16181599253ffc23770.svg",
     "static/media/address.jpg": "/transferok/static/media/address.6af6eafc78d823f5c478.jpg",
-    "static/media/price.svg": "/transferok/static/media/price.9db059e0632d3ddb0dda.svg",
-    "static/media/phone.svg": "/transferok/static/media/phone.d2df870da352e96c06d8.svg",
-    "static/media/comfort.svg": "/transferok/static/media/comfort.3113f8fd0ffa25154623.svg",
-    "static/media/wp.svg": "/transferok/static/media/wp.95c163505f55e273ce26.svg",
     "static/media/airport.jpg": "/transferok/static/media/airport.bbe44c6bca713851829b.jpg",
-    "static/media/viber.svg": "/transferok/static/media/viber.3bf61a389a957fab6468.svg",
-    "static/media/gmail.svg": "/transferok/static/media/gmail.86e482b5a5838eb6b883.svg",
-    "static/media/telegram.svg": "/transferok/static/media/telegram.2d9d59649033c1a5978b.svg",
     "static/media/hotel.jpg": "/transferok/static/media/hotel.417ab191fbb92fe15120.jpg",
     "static/media/location.svg": "/transferok/static/media/location.b2597d339dea8b8b0e32.svg",
     "static/media/logo.svg": "/transferok/static/media/logo.d63a9e1476bcc59ef622.svg",
+    "static/media/reliability.svg": "/transferok/static/media/reliability.6b244bf761f6cb8bab23.svg",
+    "static/media/price.svg": "/transferok/static/media/price.f7bdbf4b164c03ff66f5.svg",
+    "static/media/comfort.svg": "/transferok/static/media/comfort.54285e0bce7bfeaa12df.svg",
+    "static/media/multiLanguage.svg": "/transferok/static/media/multiLanguage.0acc311c1718318ae766.svg",
+    "static/media/wp.svg": "/transferok/static/media/wp.df3b85664f257daa7822.svg",
+    "static/media/viber.svg": "/transferok/static/media/viber.23d18d1f9f9c27872cbd.svg",
+    "static/media/phone.svg": "/transferok/static/media/phone.2ee1b7611b7f067c6465.svg",
     "index.html": "/transferok/index.html",
+    "static/media/gmail.svg": "/transferok/static/media/gmail.e39d3ff879445317e876.svg",
+    "static/media/telegram.svg": "/transferok/static/media/telegram.86fe8f608d590ab8724a.svg",
     "static/media/triangle.svg": "/transferok/static/media/triangle.be3b0083636fc8f6948d.svg",
-    "main.cace6a0f.css.map": "/transferok/static/css/main.cace6a0f.css.map",
-    "main.6782726e.js.map": "/transferok/static/js/main.6782726e.js.map"
+    "main.0b8723d9.css.map": "/transferok/static/css/main.0b8723d9.css.map",
+    "main.0389d23f.js.map": "/transferok/static/js/main.0389d23f.js.map"
   },
   "entrypoints": [
-    "static/css/main.cace6a0f.css",
-    "static/js/main.6782726e.js"
+    "static/css/main.0b8723d9.css",
+    "static/js/main.0389d23f.js"
   ]
 }
