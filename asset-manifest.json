@@ -1,9 +1,11 @@
 {
   "files": {
-    "main.css": "/transferok/static/css/main.46d9ebbd.css",
-    "main.js": "/transferok/static/js/main.23a5b8f7.js",
+    "main.css": "/transferok/static/css/main.cace6a0f.css",
+    "main.js": "/transferok/static/js/main.6782726e.js",
     "static/media/home.jpg": "/transferok/static/media/home.fd760b399b9a1d7f9f0a.jpg",
     "static/media/toyota1.png": "/transferok/static/media/toyota1.654b923871e80ac0a65e.png",
+    "static/media/wv1.png": "/transferok/static/media/wv1.1e629eea27f5ca22bfb5.png",
+    "static/media/wv2.png": "/transferok/static/media/wv2.fdf179eb8617f26220aa.png",
     "static/media/audi1.png": "/transferok/static/media/audi1.07547b7f71a2eac8a41e.png",
     "static/media/audi2.jpg": "/transferok/static/media/audi2.b292c708f7c61dbdfaa7.jpg",
     "static/media/toyota2.jpg": "/transferok/static/media/toyota2.19748ed8d1b609ce8a73.jpg",
@@ -24,11 +26,11 @@
     "static/media/logo.svg": "/transferok/static/media/logo.d63a9e1476bcc59ef622.svg",
     "index.html": "/transferok/index.html",
     "static/media/triangle.svg": "/transferok/static/media/triangle.be3b0083636fc8f6948d.svg",
-    "main.46d9ebbd.css.map": "/transferok/static/css/main.46d9ebbd.css.map",
-    "main.23a5b8f7.js.map": "/transferok/static/js/main.23a5b8f7.js.map"
+    "main.cace6a0f.css.map": "/transferok/static/css/main.cace6a0f.css.map",
+    "main.6782726e.js.map": "/transferok/static/js/main.6782726e.js.map"
   },
   "entrypoints": [
-    "static/css/main.46d9ebbd.css",
-    "static/js/main.23a5b8f7.js"
+    "static/css/main.cace6a0f.css",
+    "static/js/main.6782726e.js"
   ]
 }
