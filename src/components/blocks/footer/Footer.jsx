@@ -18,7 +18,9 @@ export const Footer = () => {
           Tylpan7788@gmail.com
         </a>
       </p>
-      <div className="footer__logo"></div>
+      <a href="#">
+        <div className="footer__logo"></div>
+      </a>
     </div>
   )
 }

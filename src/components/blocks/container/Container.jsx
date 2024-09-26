@@ -140,6 +140,10 @@ export const Container = () => {
           <div className="carPark__car carPark__car--toyota1"></div>
           <div className="carPark__car carPark__car--toyota2"></div>
         </div>
+        <div className="carPark__cars">
+          <div className="carPark__car carPark__car--wv1"></div>
+          <div className="carPark__car carPark__car--wv2"></div>
+        </div>
       </div>
     </div>
   );

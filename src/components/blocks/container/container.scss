@@ -251,7 +251,7 @@
     background-size: cover;
     width: 100%;
     height: auto;
-    aspect-ratio: 16 / 9;
+    aspect-ratio: 16 / 12;
 
     &--audi1 {
       background-image: url(../../../images/audi1.png);
@@ -267,6 +267,14 @@
 
     &--toyota2 {
       background-image: url(../../../images/toyota2.jpg);
+    }
+
+    &--wv1 {
+      background-image: url(../../../images/wv1.png);
+    }
+
+    &--wv2 {
+      background-image: url(../../../images/wv2.png);
     }
   }
 }
