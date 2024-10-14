@@ -9,8 +9,8 @@ export const Footer = () => {
         <h1 className="footer__title">Контакти</h1>
         <p className="footer__text">
           Номер телефону:&nbsp;
-          <a href="tel:+380509573836" className="footer__link">
-            +38 0 (50) 957 38 36
+          <a href="tel:+380978793288" className="footer__link">
+            +38 0 (97) 879 32 88
           </a>
         </p>
         <p className="footer__text">
@@ -24,7 +24,7 @@ export const Footer = () => {
         </a>
       </footer>
       <p className="footer__copyright">
-        © 2024 Transfer-OK. Все права защищены.
+        © 2024 Transfer-OK. All rights reserved.
       </p>
     </div>
   )

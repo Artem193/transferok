@@ -26,7 +26,7 @@ export const Home = () => {
           Легке бронювання
         </p>
       </div>
-      <a href="tel:+380509573836">
+      <a href="tel:+380978793288">
         <button className="home__button">Замовити трансфер</button>
       </a>
     </div>
