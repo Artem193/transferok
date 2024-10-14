@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/transferok/static/css/main.2f3ed465.css",
-    "main.js": "/transferok/static/js/main.0389d23f.js",
+    "main.css": "/transferok/static/css/main.b5a5dd17.css",
+    "main.js": "/transferok/static/js/main.e2a7bda9.js",
     "static/media/home.jpg": "/transferok/static/media/home.fd760b399b9a1d7f9f0a.jpg",
     "static/media/toyota1.png": "/transferok/static/media/toyota1.654b923871e80ac0a65e.png",
     "static/media/wv2.png": "/transferok/static/media/wv2.bdbf98762d3cdbcbe6cd.png",
@@ -26,11 +26,11 @@
     "static/media/gmail.svg": "/transferok/static/media/gmail.e39d3ff879445317e876.svg",
     "static/media/telegram.svg": "/transferok/static/media/telegram.86fe8f608d590ab8724a.svg",
     "static/media/triangle.svg": "/transferok/static/media/triangle.be3b0083636fc8f6948d.svg",
-    "main.2f3ed465.css.map": "/transferok/static/css/main.2f3ed465.css.map",
-    "main.0389d23f.js.map": "/transferok/static/js/main.0389d23f.js.map"
+    "main.b5a5dd17.css.map": "/transferok/static/css/main.b5a5dd17.css.map",
+    "main.e2a7bda9.js.map": "/transferok/static/js/main.e2a7bda9.js.map"
   },
   "entrypoints": [
-    "static/css/main.2f3ed465.css",
-    "static/js/main.0389d23f.js"
+    "static/css/main.b5a5dd17.css",
+    "static/js/main.e2a7bda9.js"
   ]
 }
